@@ -1,7 +1,7 @@
 Инструкция по развертыванию:
 
   Переход в директорию и запуск контейнеров:
-    cd sharding-repl-cache
+    cd mongo-sharding-repl
     docker-compose up -d
 
   Конфигурация сервера конфигурации, шардов и роутера:
@@ -16,5 +16,3 @@
   Просмотр заполнения шардов:
     sh ./scripts/count-shard01.sh
     sh ./scripts/count-shard02.sh
-
-Ссылка на схемы: https://disk.yandex.ru/d/2y981jIqknhuBQ
