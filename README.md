@@ -16,3 +16,5 @@
   Просмотр заполнения шардов:
     sh ./scripts/count-shard01.sh
     sh ./scripts/count-shard02.sh
+
+Ссылка на схемы: https://disk.yandex.ru/d/2y981jIqknhuBQ
